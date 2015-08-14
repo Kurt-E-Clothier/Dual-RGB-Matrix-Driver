@@ -37,6 +37,8 @@
 #define TWI_IS_DONE			(stat_flag & TWI_DONE)
 #define TWI_NOT_DONE		!TWI_IS_DONE
 
+#define WDT_MAX		70
+
 // Color Control
 #define COLORS		3
 #define BLUE_LEDS	2
